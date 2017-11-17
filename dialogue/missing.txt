@@ -1,0 +1,13 @@
+[Textbox]
+So far, the only thing we support are
+garden-variety textboxes. There's no word wrap
+(yet), so you have to break up your dialogue with
+newlines so it doesn't go off-screen.
+
+Press X to continue.
+
+[Textbox]
+Break your dialogue into multiple boxes using the
+[Textbox] tag.
+
+Putting a line break isn't enough!
