@@ -1,11 +1,1 @@
-[Textbox]
-So far, the only thing we support are
-garden-variety textboxes. There's no word wrap
-(yet), so you have to break up your dialogue with
-newlines so it doesn't go off-screen.
-
-[Textbox]
-Textboxes only have space for 4 or 5 lines, so break up your
-dialogue into multiple boxes using those tags.
-
-Putting a line break isn't enough!
+https://docs.google.com/document/d/1pZKLY3TukqDbrCKrVroKDBshHmy39gH49Dwdn-A2dUs/edit#
