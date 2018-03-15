@@ -1,0 +1,32 @@
+[comment]
+For when EZ first appears in the level.
+Provides tutorial info.
+
+[textbox speaker="EZ Lewis"]
+Woah.  Talk about alien.  This place is incredible.
+
+[textbox speaker="CEO"]
+Remember why you’re here, Ms. Lewis.
+Find the air purifier on this world and reactivate it.
+
+[textbox]
+Use the left and right arrow keys to move around. 
+Press down to crouch and up to jump.
+
+[textbox speaker="CEO"]
+You've been given a blaster pistol in case you
+need to defend yourself.
+
+[textbox]
+Press Z to fire EZ’s blaster pistol.
+
+[textbox speaker="CEO"]
+And remember, you can use your augmentation ability
+to teleport out of any tight situations.  Your
+teleportation can also be used offensively-- but I’m
+sure you already knew that, Ms. Lewis.
+
+[textbox]
+Hold down T to slow time. Hold down an arrow key
+to choose your destination and release T to
+teleport in that direction.

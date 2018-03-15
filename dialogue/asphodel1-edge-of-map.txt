@@ -1,0 +1,12 @@
+[comment]
+When EZ approaches the edge of the map.
+
+[textbox speaker="CEO"]
+Seems like you’ve got everything, Ms. Lewis.
+Hurry and head on out there -- and don’t
+forget your mission.
+
+[textbox speaker="EZ Lewis"]
+Yeah, yeah, activate the purifier,
+don’t get killed. Affirmative, sir... 
+whatever.
